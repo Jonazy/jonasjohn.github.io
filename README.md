@@ -1,12 +1,13 @@
-(https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8)
+()
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8)' alt='github' height='40'>](https://github.com/thejonasjon)
 
-### Hi there 👋, I'm Jonas
-#### 🛠️ QA Engineer & Backend Developer | Driving User-Centric Experience through Quality Software Engineering.
-![🛠️ Experienced QA & Backend Engineer | Driving User-Centric Experience through Quality Software Engineering.]
+#### Hi there 👋, I'm Jonas
+
+##### 🛠️ QA Engineer & Backend Developer | Driving User-Centric Experience through Quality Software Engineering.
 
 As a seasoned QA Engineer and Backend Developer with over 5 years of experience, I specialize in Agile methodologies, driving user-centric experiences through meticulous attention to quality software engineering. My passion lies in ensuring that every aspect of the software development process, from backend infrastructure to front-end usability, is geared towards enhancing the end user's journey and experience. With a focus on Agile principles and scrum framework, I thrive in dynamic, collaborative environments, delivering robust solutions that prioritize both functionality and user satisfaction.
 
-#### Skills
+##### Skills
 Skills: Python, Django, Django-rest-framework, JavaScript, HTML5, CSS3, SQL, Cypress, Postman, Superset, Katalon Studio, Docker, Git, Github Actions, Slack, Twists, Threads, Asana, Trello, ClickUp, Jira, Agile, Scrum, Waterfall
 
 #### Working Experience
