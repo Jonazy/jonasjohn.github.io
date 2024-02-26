@@ -20,13 +20,10 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 <a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="500" alt="jonas meet_link" src="meeting_with_thejonasjon.png"></a>
 
 #### | Let Connect 😎
-[![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
-[![Twitter: Follow](https://twitter.com/thejonasjon?lang=en)
+[![Linkedin: Jonas](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thejonasjon?label=Follow)](https://twitter.com/intent/follow?screen_name=thejonasjon)
 [![Github: Follow Jonas](https://img.shields.io/github/followers/thejonasjon?label=Follow&style=social)
-
-https://img.shields.io/twitter/url
-https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den
+[![Instagram Follow](https://img.shields.io/instagram/follow/thejonasjon?label=Follow)](https://www.instagram.com/thejonasjon/follow?screen_name=thejonasjon)
 
 
 https://twitter.com/borisjohnson?lang=en
