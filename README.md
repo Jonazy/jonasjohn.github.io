@@ -18,8 +18,8 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 <a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 #### Let connect right away!👇
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=thejonasjon)
+[![Linkedin: Jonas](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
+[![Twitter: Jonas](https://img.shields.io/twitter/follow/thejonasjohn?label=Follow)](https://twitter.com/intent/follow?screen_name=thejonasjon)
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Automation tasks 
