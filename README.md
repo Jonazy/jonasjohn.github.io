@@ -30,4 +30,4 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 - ⚡ Fun fact: Swimming, Sport,  
 
 [*Made with ❤️ by Jonas*](https://github.com/thejonasjon/)
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<p align="center"> <i><a href="https://github.com/thejonasjon/">Made with ❤️ by Jonas</a></i></p>
