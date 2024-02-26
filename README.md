@@ -21,8 +21,7 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 
 #### | Let Connect 😎
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
-[![Twitter: Jonas](https://img.shields.io/twitter/follow/thejonasjon)
-[![Twitter: Follow](https://img.shields.io/badge/X?style=flat&logo=X&logoColor=black&label=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dx%2Bicon%26sca_esv%3Da046f47d61f24398%26sxsrf%3DACQVn0_DsGg7RvfbBwdrhYQMZpXT1a6vLQ%253A1708964271059%26ei%3Dr7ncZdeXA8G0hbIP16GQ8A4%26oq%3Dx%2B%26gs_lp%3DEgxnd3Mtd2l6LXNlcnAiAnggKgIIADIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIQEAAYgAQYigUYQxixAxiDATINEAAYgAQYigUYQxixAzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQ0j6IlDsCljlDHADeAGQAQCYAecBoAHKA6oBAzItMrgBAcgBAPgBAZgCBaAC2APCAgcQIxiwAxgnwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAgQQIxgnwgIKECMYgAQYigUYJ8ICCBAuGIAEGLEDwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAZgDAIgGAZAGCpIHBTMuMC4y%26sclient%3Dgws-wiz-serp%23vhid%3DBKaT2lbvdWW19M%26vssid%3Dl)
+[![Twitter: Follow Jonas](https://img.shields.io/twitter/)](https://twitter.com/thejonasjon?lang=en)
 [![Github: Follow Jonas](https://img.shields.io/github/followers/thejonasjon?label=Follow&style=social)
 
 
