@@ -21,14 +21,14 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 
 #### | Let Connect 😎
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
-[![Twitter: Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den)]
+[![Twitter: Follow](https://img.shields.io/twitter/url?url=thejonasjon)
 [![Github: Follow Jonas](https://img.shields.io/github/followers/thejonasjon?label=Follow&style=social)
 
 https://img.shields.io/twitter/url
 https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den
 
 
-
+https://twitter.com/borisjohnson?lang=en
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Automation tasks 
 - ⚡ Fun fact: Swimming, Sport,  
