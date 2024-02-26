@@ -1,5 +1,4 @@
-()
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8)' alt='github' height='40'>](https://github.com/thejonasjon)
+<img src="" >
 
 # Hi there 👋, I'm Jonas
 
