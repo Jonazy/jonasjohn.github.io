@@ -6,6 +6,7 @@
 
 As a seasoned QA Engineer and Backend Developer with over 5 years of experience, I specialize in Agile methodologies, driving user-centric experiences through meticulous attention to quality software engineering. My passion lies in ensuring that every aspect of the software development process, from backend infrastructure to front-end usability, is geared towards enhancing the end user's journey and experience. With a focus on Agile principles and scrum framework, I thrive in dynamic, collaborative environments, delivering robust solutions that prioritize both functionality and user satisfaction.
 
+
 ## 🔧 Skills | Technologies | Tools
 Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypress | Postman | Superset | Katalon Studio | Docker | Git | Github Actions | Slack | Twists | Threads | Asana | Trello | ClickUp | Jira | Agile | Scrum | Waterfall
 
@@ -18,12 +19,12 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 
 #### | Collaboration <> Opportunity 🤝
 Block my calender if you'd like to have chat about opportunity or collaborate.
-<small> Make sure sure to describe the agenda. </small>
+*Make sure sure to describe the agenda.*
 
 <a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="500" alt="jonas meet_link" src="meeting_with_thejonasjon.png"></a>
 
 #### | Let Connect 😎
-<small> I am more than happy to connect with you on. </small>
+*I am more than happy to connect with you.*
 
 [![Linkedin: Jonas](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thejonasjon?label=Follow&color=%bdc3c7)](https://twitter.com/intent/follow?screen_name=thejonasjon)
