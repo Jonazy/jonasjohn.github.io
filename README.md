@@ -29,4 +29,4 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 - 👯 I’m looking to collaborate on Automation tasks 
 - ⚡ Fun fact: Swimming, Sport,  
 
-<p align="center"> <i><a href="https://github.com/thejonasjon/" style="text-decoration: none">Made with ❤️ by Jonas</a></i></p>
+<p align="center"> <i><a href="https://github.com/thejonasjon/" style="text-decoration:none;">Made with ❤️ by Jonas</a></i></p>
