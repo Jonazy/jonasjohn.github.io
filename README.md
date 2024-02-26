@@ -13,11 +13,13 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 ![](https://img.shields.io/badge/Python?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
-## Like to meet Jonas for?
 
-#### collaboration and opportunity? Schedule 👊
+## Like to meet Jonas?
+
+#### | 🤝 Collaboration <> Opportunity | 
 <a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="500" alt="jonas meet_link" src="meeting_with_thejonasjon.png"></a>
-#### Let connect right away!👇
+
+#### | 😎 Let Connect | 
 [![Linkedin: Jonas](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thejonasjon/)](https://www.linkedin.com/in/thejonasjon/)
 [![Twitter: Jonas](https://img.shields.io/twitter/follow/thejonasjon?label=Follow)](https://twitter.com/intent/follow?screen_name=thejonasjon)
 
