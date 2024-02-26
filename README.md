@@ -17,9 +17,14 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 ## Like to meet Jonas?
 
 #### | Collaboration <> Opportunity 🤝
+Block my calender if you'd like to have chat about opportunity or collaborate.
+- Make sure sure to describe the agenda.
+
 <a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="500" alt="jonas meet_link" src="meeting_with_thejonasjon.png"></a>
 
 #### | Let Connect 😎
+I am more than happy to connect with you on
+
 [![Linkedin: Jonas](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thejonasjon?label=Follow&color=%bdc3c7)](https://twitter.com/intent/follow?screen_name=thejonasjon)
 [![Instagram Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den&style=social&logo=instagram&logoColor=%23E4405F&label=Instagram&color=%bdc3c7)](https://www.instagram.com/thejonasjon/)
