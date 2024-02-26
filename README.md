@@ -9,7 +9,7 @@ As a seasoned QA Engineer and Backend Developer with over 5 years of experience,
 ## 🔧 Skills | Technologies | Tools
 Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypress | Postman | Superset | Katalon Studio | Docker | Git | Github Actions | Slack | Twists | Threads | Asana | Trello | ClickUp | Jira | Agile | Scrum | Waterfall
 
-## Projects
+## 💻 Projects
 ![](https://img.shields.io/badge/Python?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
@@ -23,7 +23,7 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 [![Linkedin: Jonas](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thejonasjon?label=Follow&color=%bdc3c7)](https://twitter.com/intent/follow?screen_name=thejonasjon)
 [![Instagram Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den&style=social&logo=instagram&logoColor=%23E4405F&label=Instagram&color=%bdc3c7)](https://www.instagram.com/thejonasjon/)
-
+[![Gmail: Jonas](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den&style=social&logo=Gmail&logoColor=%23EA4335&label=Gmail&color=%23ecf0f1)
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Automation tasks 
