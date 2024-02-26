@@ -1,4 +1,4 @@
-<img src="jonasjon.png" >
+<img src="jonasjon.png" size="500">
 
 # I'm Jonas 👋
 
