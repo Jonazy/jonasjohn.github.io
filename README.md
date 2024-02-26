@@ -11,6 +11,8 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 
 ## Projects
 ![](https://img.shields.io/badge/Python?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Automation tasks 
 - ⚡ Fun fact: Swimming, Sport,  
