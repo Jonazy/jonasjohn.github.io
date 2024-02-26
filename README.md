@@ -20,9 +20,9 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 <a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="500" alt="jonas meet_link" src="meeting_with_thejonasjon.png"></a>
 
 #### | Let Connect 😎
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
-[![Twitter: Jonas](https://img.shields.io/twitter/follow/thejonasjon)
-[![Github: Follow Jonas](https://img.shields.io/github/followers/thejonasjon?label=Follow&style=social)
+![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
+![Twitter: Jonas](https://img.shields.io/twitter/follow/thejonasjon)
+![Github: Follow Jonas](https://img.shields.io/github/followers/thejonasjon?label=Follow&style=social)
 
 
 
