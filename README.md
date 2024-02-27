@@ -30,8 +30,7 @@ Say hello, feel connonect or follow me via:
 [![Linkedin: Jonas](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thejonasjon?label=Follow&color=%bdc3c7)](https://twitter.com/intent/follow?screen_name=thejonasjon)
 [![Instagram Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den&style=social&logo=instagram&logoColor=%23E4405F&label=Instagram&color=%bdc3c7)](https://www.instagram.com/thejonasjon/)
-[![Gmail](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den&style=social&logo=Gmail&logoColor=%23EA4335&label=Gmail&color=%23ecf0f1
-)](mailto:jonas.humenu@gmail.com)
+[![Email Me](https://img.shields.io/badge/:badgeContent?style=social&logo=Gmail&logoColor=%bdc3c7)](mailto:jonas.humenu@gmail.com)
 
 Looking forward to hearing from you!
 ## Hobbies
