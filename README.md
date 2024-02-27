@@ -30,7 +30,7 @@ Display projects
 Let's schedule a chat! Click below to check my availability and set up a meeting.
 *Please make sure to include a brief description of the agenda so we can make the most of our time together.*
 
-<a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="500" alt="jonas meet_link" src="meeting_with_thejonasjon.png"></a>
+<a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="500" alt="jonas meet_link" src="assets/media/meeting_with_thejonasjon.png"></a>
 
 #### Let's Connect 😎
 I'm always open to connecting with like-minded professionals!
