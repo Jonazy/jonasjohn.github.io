@@ -21,7 +21,7 @@ Display projects
 
 <!-- End Project Cards -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-View%20More-red?style=for-the-badge&logo=smile&logoColor=white"/>](https://github.io/thejonasjon)
+[<img src="https://custom-icon-badges.demolab.com/badge/-View%20More-blue?style=for-the-badge&logo=smile&logoColor=white"/>](https://github.io/thejonasjon)
 
 
 ## 📫 Interested in meeting Jonas?
