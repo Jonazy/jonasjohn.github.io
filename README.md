@@ -1,4 +1,4 @@
-<img src="jonasjon.png" size="500">
+<img src="assets/media/jonasjon.png" size="500">
 
 <h1 align="center"> Hello! 👋, I'm Jonas</h1>
 
