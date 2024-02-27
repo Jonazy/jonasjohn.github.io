@@ -17,7 +17,7 @@ Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypr
 
 <!-- Start Project Cards -->
 
-Display projects
+Stay tuned, something exciting is coming soon!
 
 <!-- End Project Cards -->
 
@@ -46,4 +46,4 @@ Feel free to reach out via:
 Surfing | Swimming | sports | Football Manager.
 
 ##
-<p align="center"> <i><a href="https://github.com/thejonasjon/" style="text-decoration:none;">Made with ❤️ by Jonas</a></i></p>
+<p align="center"> <i><a href="https://github.com/thejonasjon/" style="text-decoration: none; color: inherit;">Made with ❤️ by Jonas</a></i></p>
