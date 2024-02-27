@@ -1,43 +1,49 @@
 <img src="jonasjon.png" size="500">
 
-# I'm Jonas 👋
+<h1 align="center"> Hello! 👋, I'm Jonas</h1>
 
-### 🛠️ QA Engineer | Backend Developer
+## 🛠️ **`(Backend Developer | QA Engineer)`**
 
-As a seasoned QA Engineer and Backend Developer with over 5 years of experience, I specialize in Agile methodologies, driving user-centric experiences through meticulous attention to quality software engineering. My passion lies in ensuring that every aspect of the software development process, from backend infrastructure to front-end usability, is geared towards enhancing the end user's journey and experience. With a focus on Agile principles and scrum framework, I thrive in dynamic, collaborative environments, delivering robust solutions that prioritize both functionality and user satisfaction.
+A seasoned QA Engineer and Backend Developer with over 5 years of experience. I'm dedicated to delivering exceptional user satisfaction by paying meticulous attention to detail in software engineering. My passion lies in improving every aspect of the software development process, from backend infrastructure to front-end usability, to enhance the end user's experience. I thrive in dynamic, collaborative team environments, where Agile principles, and the scrum framework drive us to deliver robust solutions that prioritize teamwork, continuous improvement, and user satisfaction.
+
+Let's collaborate and create something extraordinary!
+
 
 
 ## 🔧 Skills | Technologies | Tools
 Python | Django | Django-rest-framework | JavaScript | HTML5 | CSS3 | SQL | Cypress | Postman | Superset | Katalon Studio | Docker | Git | Github Actions | Slack | Twists | Threads | Asana | Trello | ClickUp | Jira | Agile | Scrum | Waterfall
 
 ## 💻 Projects
-![](https://img.shields.io/badge/Python?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+<!-- Start Project Cards -->
+
+Display projects
+
+<!-- End Project Cards -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-View%20More-red?style=for-the-badge&logo=smile&logoColor=white"/>](https://github.io/thejonasjon)
 
 
-## Like to meet Jonas?
+## 📫 Interested in meeting Jonas?
 
-#### Collaboration <> Opportunity 🤝
-Feel free to schedule a meeting with me if you'd like to discuss an opportunity or collaborate on a project. 
+#### For Collaboration or Discussing Opportunities 🤝
+Let's schedule a chat! Click below to check my availability and set up a meeting.
 *Please make sure to include a brief description of the agenda so we can make the most of our time together.*
 
 <a href="https://calendly.com/thejonasjon/30min" target="_blank"><img width="500" alt="jonas meet_link" src="meeting_with_thejonasjon.png"></a>
 
 #### Let's Connect 😎
-I am more than happy to connect with you!
-Say hello, feel connonect or follow me via:
+I'm always open to connecting with like-minded professionals!
+Feel free to reach out via:
 
 [![Linkedin: Jonas](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/thejonasjon/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thejonasjon?label=Follow&color=%bdc3c7)](https://twitter.com/intent/follow?screen_name=thejonasjon)
-[![Instagram Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fthejonasjon%3Flang%3Den&style=social&logo=instagram&logoColor=%23E4405F&label=Instagram&color=%bdc3c7)](https://www.instagram.com/thejonasjon/)
-[![Email Me](https://img.shields.io/badge/%23ecf0f1?style=for-the-badge&logo=Gmail&logoColor=%23EA4335&labelColor=%23ecf0f1
-)](mailto:jonas.humenu@gmail.com)
+[![Instagram Follow](https://img.shields.io/badge/-Instagram?style=social&logo=Instagram&logoColor=%23EA4335&label=Instagram&color=%bdc3c7)](https://www.instagram.com/thejonasjon/)
+[![Email Me](https://img.shields.io/badge/Email%20Me-%23EA4335?style=social&logo=Gmail&logoColor=%23EA4335&color=%232c3e50)](mailto:jonas.humenu@gmail.com)
 
-Looking forward to hearing from you!
-## Hobbies
-- 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on Automation tasks 
-- ⚡ Fun fact: Swimming, Sport,  
+  
+## 🏄‍♂️ Hobbies
+Surfing | Swimming | sports | Football Manager.
 
 ##
 <p align="center"> <i><a href="https://github.com/thejonasjon/" style="text-decoration:none;">Made with ❤️ by Jonas</a></i></p>
