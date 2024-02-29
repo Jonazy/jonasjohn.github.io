@@ -43,7 +43,7 @@ Feel free to reach out via:
 <br><br>
  
 ## 🏄‍♂️ Hobbies
-Surfing | Swimming | sports | Football Manager.
+Surfing | Swimming | sports | Travel | Football Manager.
 <br>
 ##
 <p align="center"> <i><a href="https://github.com/thejonasjon/" style="text-decoration: none; color: inherit;">Made with ❤️ by Jonas</a></i></p>
