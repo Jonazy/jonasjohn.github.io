@@ -4,14 +4,13 @@
 
 ## 🛠️ **`(Backend Developer | QA Engineer)`**
 
-🌍 𝖬𝖾:
+🌍 𝖬𝖾:<br>
 As a seasoned QA Engineer and Backend Developer with over 5 years of experience. I'm commited to delivering exceptional user satisfaction by paying meticulous attention to detail in software engineering. 
 
-⛳️ 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀(𝗌):
-- 𝙴𝚏𝚏𝚎𝚌𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚜 𝚎𝚖𝚋𝚛𝚊𝚌𝚒𝚗𝚐 𝚍𝚒𝚟𝚎𝚛𝚜𝚎 𝚙𝚎𝚛𝚜𝚙𝚎𝚌𝚝𝚒𝚟𝚎.
+⛳️ 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀(𝗌):<br>𝙴𝚏𝚏𝚎𝚌𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚜 𝚎𝚖𝚋𝚛𝚊𝚌𝚒𝚗𝚐 𝚍𝚒𝚟𝚎𝚛𝚜𝚎 𝚙𝚎𝚛𝚜𝚙𝚎𝚌𝚝𝚒𝚟𝚎.<br>
 I have committed myself to continuous growth by prioritizing teamwork and cultivating traits such as accountability, continuous learning, autonomy, flexibility, and communication, with my primary goal of ensuring user satisfaction by delivering quality products.
 
-🎯 𝖦𝗈𝗂𝗇𝗀 𝖥𝗈𝗋𝗐𝖺𝗋𝖽: 
+🎯 𝖦𝗈𝗂𝗇𝗀 𝖥𝗈𝗋𝗐𝖺𝗋𝖽:<br> 
 I am excited about leveraging my extensive experience to contribute to innovations that push technological boundaries.
 
 Let's collaborate and create something extraordinary!
